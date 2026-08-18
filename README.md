@@ -156,13 +156,5 @@ Returns total revenue per department for the given month, joining Bills → Appo
 
 ---
 
-## TODO
-- [ ] Re-run/confirm data migration inserts (departments, doctors, patients) against final schema
-- [ ] Add migration inserts for prescriptions, bills, lab reports
-- [ ] Consider hashing passwords in Doctor_Credentials
-- [ ] Test trigger + both procedures end-to-end with sample data
-
----
-
 ## Code
 See `schema.sql` — contains full DB creation, all 7 tables + Doctor_Credentials, the scheduling trigger, and both stored procedures.
