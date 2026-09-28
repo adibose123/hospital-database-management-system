@@ -1,6 +1,6 @@
 # Hospital Database Creation and Data Migration
 
-Course project. Migrating a messy Excel-based hospital record system into a proper relational database (MySQL) with real constraints, relationships, automated business rules, and role-based access control.
+Migrating a messy Excel-based hospital record system into a proper relational database (MySQL) with real constraints, relationships, automated business rules, and role-based access control.
 
 ---
 
